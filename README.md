@@ -1,1 +1,1 @@
-NLP Sentiment AnalysisProject Solution
+NLP Sentiment Analysis Project Solution
